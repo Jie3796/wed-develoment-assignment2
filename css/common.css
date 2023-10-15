@@ -104,12 +104,36 @@ p{
 .orange{
   color:#ea6c11
 }
-.footer{
-  height:90px;
-  line-height:90px;
-  background:#706f6f !important;
-  color:#fff;
+footer {
+  background-color: whitesmoke;
+  margin-top: 30px;
+  padding: 20px;
+  text-align: left;
+  font-size: 10px;
+
 }
+table{
+  margin-left: 25%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+th{
+  height: 30px;
+}
+
+td{
+  width: 200px;    
+}
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: rgb(61, 172, 174);
+}
+
 .center{
   text-align:center;
 }

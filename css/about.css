@@ -19,33 +19,3 @@
   font-size:24px !important;
   line-height:36px;
 }
-
-footer {
-  background-color: whitesmoke;
-  margin-top: 30px;
-  padding: 20px;
-  text-align: left;
-  font-size: 10px;
-
-}
-table{
-  margin-left: 25%;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-th{
-  height: 30px;
-}
-
-td{
-  width: 200px;    
-}
-
-
-a {
-  text-decoration: none;
-  color: black;
-}
-a:hover {
-  color: rgb(61, 172, 174);
-}
